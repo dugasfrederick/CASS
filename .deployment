@@ -1,0 +1,2 @@
+[config]
+command = \home\site\wwwroot\scripts\cassInstall.sh
